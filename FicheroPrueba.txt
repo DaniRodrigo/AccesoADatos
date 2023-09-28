@@ -1,0 +1,30 @@
+Contenido inicial del archivo:
+El flujo FileReader permite leer caracteres desde un fichero de modo secuencial. Esta clase hereda
+los métodos de la clase Reader. Los constructores principales son:
+
+FileReader(String ruta)
+
+FileReader(File fichero)
+
+El fichero puede abrirse con una ruta de directorios o con un objeto de tipo File. El método más
+popular de FileReader, heredado de Reader, es el método read() que solo puede aceptar un array
+de caracteres (buffer):
+
+public int read(char[] cbuf) throws IOExceptionEl flujo FileReader permite leer caracteres desde un fichero de modo secuencial. Esta clase hereda
+los métodos de la clase Reader. Los constructores principales son:
+
+FileReader(String ruta)
+
+FileReader(File fichero)
+
+El fichero puede abrirse con una ruta de directorios o con un objeto de tipo File. El método más
+popular de FileReader, heredado de Reader, es el método read() que solo puede aceptar un array
+de caracteres (buffer):
+
+public int read(char[] cbuf) throws IOException #
+
+MariCarmen me la pela #
+
+
+
+No hombre, pobrecita 
